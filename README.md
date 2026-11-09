@@ -1,1 +1,3 @@
-# hackaton_repo
+# Groupe clé
+Pierre-Louis / Elias / Patrick
+
