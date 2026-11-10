@@ -20,3 +20,6 @@ Write-Host "  CPU      : $($cpu.Name.Trim())"
 
 Write-Host "  RAM      : $ramUtilisee Go / $ramTotale Go (Libre: $ramLibre Go)"
 Write-Host "  Disque C : $disqueUtiliseGB Go / $disqueTotalGB Go ($pctUtilise% utilisé)`n"
+
+Write-Host ""
+Read-Host "Appuyez sur Entree pour fermer"
